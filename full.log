@@ -1,0 +1,37 @@
+[    53.328] Markers: (--) probed,  INFORMATION:  from config file, (==) default setting,
+[    53.336]  INFORMATION:  |-->Screen "Default Screen Section" (0)
+[    53.336]  INFORMATION:  |   |-->Monitor "<default monitor>"
+[    54.834]  INFORMATION:  Power Button: Applying InputClass "evdev keyboard catchall"
+[    54.834]  INFORMATION:  Power Button: Applying InputClass "libinput keyboard catchall"
+[    54.853]  INFORMATION:  Power Button: always reports core events
+[    54.853]  INFORMATION:  Option "Device" "/dev/input/event0"
+[    54.853]  INFORMATION:  Option "_source" "server/udev"
+[    54.870]  INFORMATION:  Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXPWRBN:00/input/input0/event0"
+[    54.872]  INFORMATION:  Sleep Button: Applying InputClass "evdev keyboard catchall"
+[    54.872]  INFORMATION:  Sleep Button: Applying InputClass "libinput keyboard catchall"
+[    54.872]  INFORMATION:  Sleep Button: always reports core events
+[    54.872]  INFORMATION:  Option "Device" "/dev/input/event1"
+[    54.872]  INFORMATION:  Option "_source" "server/udev"
+[    54.873]  INFORMATION:  Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSLPBN:00/input/input1/event1"
+[    54.874]  INFORMATION:  Video Bus: Applying InputClass "evdev keyboard catchall"
+[    54.874]  INFORMATION:  Video Bus: Applying InputClass "libinput keyboard catchall"
+[    54.874]  INFORMATION:  Video Bus: always reports core events
+[    54.874]  INFORMATION:  Option "Device" "/dev/input/event4"
+[    54.874]  INFORMATION:  Option "_source" "server/udev"
+[    54.875]  INFORMATION:  Option "config_info" "udev:/sys/devices/LNXSYSTM:00/LNXSYBUS:00/PNP0A03:00/LNXVIDEO:00/input/input5/event4"
+[    54.878]  INFORMATION:  AT Translated Set 2 keyboard: Applying InputClass "evdev keyboard catchall"
+[    54.878]  INFORMATION:  AT Translated Set 2 keyboard: Applying InputClass "libinput keyboard catchall"
+[    54.878]  INFORMATION:  AT Translated Set 2 keyboard: always reports core events
+[    54.878]  INFORMATION:  Option "Device" "/dev/input/event2"
+[    54.878]  INFORMATION:  Option "_source" "server/udev"
+[    54.879]  INFORMATION:  Option "config_info" "udev:/sys/devices/platform/i8042/serio0/input/input2/event2"
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: Applying InputClass "evdev pointer catchall"
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: Applying InputClass "libinput pointer catchall"
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: always reports core events
+[    54.881]  INFORMATION:  Option "Device" "/dev/input/event3"
+[    54.881]  INFORMATION:  Option "_source" "server/udev"
+[    54.881]  INFORMATION:  Option "config_info" "udev:/sys/devices/platform/i8042/serio1/input/input4/event3"
+[    54.881]  INFORMATION:  Option "AccelerationScheme" "none"
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: (accel) selected scheme none/0
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: (accel) acceleration factor: 2.000
+[    54.881]  INFORMATION:  ImExPS/2 Generic Explorer Mouse: (accel) acceleration threshold: 4
